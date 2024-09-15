@@ -1,3 +1,5 @@
+# Foodlog
+Rails application for tracking food calories and macros like protein, carbs, fats, etc.
 # README
 
 This README would normally document whatever steps are necessary to get the
